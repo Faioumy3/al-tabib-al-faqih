@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Tajawal', sans-serif;
+  background-color: #f8fafc;
+  color: #1e293b;
+}
+
+.font-amiri {
+  font-family: 'Amiri', serif;
+}
+
+.font-aref {
+  font-family: 'Aref Ruqaa', serif;
+}
+
+* {
+  direction: rtl;
+}

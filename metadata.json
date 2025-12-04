@@ -1,0 +1,7 @@
+{
+  "name": "الطبيب الفقيه",
+  "description": "Medical-Islamic Legal Assistant for Doctors. Bridges the gap between medical situations and Fiqh rulings using Semantic Search.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
